@@ -72,6 +72,20 @@
       "description": "Create a custom Copilot skill with reliable workflows, progressive-disclosure references, and deterministic scripts.",
       "path": "assignments/creating-copilot-skills-vscode",
       "dueDate": "2026-09-03"
+    },
+    {
+      "id": "evaluating-ai-generated-answers",
+      "title": "Evaluating AI-Generated Answers",
+      "description": "Learn to verify AI-generated information, identify inaccuracies and bias, and improve prompts for more useful responses.",
+      "path": "assignments/evaluating-ai-generated-answers",
+      "dueDate": "2026-09-03"
+    },
+    {
+      "id": "production-ready-copilot-skill-system",
+      "title": "Build a Production-Ready Copilot Skill System",
+      "description": "Design a reliable Copilot workflow using custom agents, handoffs, references, scripts, and verification guardrails.",
+      "path": "assignments/production-ready-copilot-skill-system",
+      "dueDate": "2026-09-03"
     }
   ]
 }
