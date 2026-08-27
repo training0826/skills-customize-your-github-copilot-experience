@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build REST APIs with FastAPI, including routes, request models, and CRUD operations.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-09-03"
+    },
+    {
+      "id": "creating-copilot-skills-vscode",
+      "title": "Creating Skills for Copilot in VS Code",
+      "description": "Create a custom Copilot skill with reliable workflows, progressive-disclosure references, and deterministic scripts.",
+      "path": "assignments/creating-copilot-skills-vscode",
+      "dueDate": "2026-09-03"
     }
   ]
 }
